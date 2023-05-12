@@ -1,6 +1,7 @@
-### Hi there 👋
+###  boas vindas ao meu perfil
 
+meu nome è kauanny  de freitas
 
-**Kauannyfreitas/kauannyfreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
-
-
+- Estou me desenvolvendo no alura  
+-  Estou  me desenvolvendo na limguagem javascript
+- utilizo esse espaço para para minha oraganizaç e compatilhamento dos meus projetos desenvolvidos
